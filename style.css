@@ -1760,7 +1760,7 @@ body {
     background-repeat: no-repeat;
     height: auto;
     min-height: 100vh;
-    overflow: visible;
+
   }
   .section-7::before {
     background: linear-gradient(to bottom, transparent 40%, black 95%);
